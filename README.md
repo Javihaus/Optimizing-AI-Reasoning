@@ -35,7 +35,7 @@ For a full list of dependencies and their versions, please refer to the requirem
 Usage
 
 ## Clone this repository:
-Copygit clone [https://github.com/Javihaus/Optimizing-AI-Reasonin]
+Copygit clone [https://github.com/Javihaus/Optimizing-AI-Reasoning]
 
 ## Install the required dependencies:
 Copypip install -r requirements.txt
