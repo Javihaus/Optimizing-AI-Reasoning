@@ -18,18 +18,6 @@ Comprehensive statistical analysis and visualization of reasoning patterns
 Novel metrics for evaluating the quality and efficiency of AI reasoning
 
 ## Requirements
-To run the Jupyter notebook, you'll need the following main dependencies:
-
-Python 3.8+
-NumPy
-Pandas
-PyTorch
-Transformers
-Scikit-learn
-SciPy
-Statsmodels
-Matplotlib
-Seaborn
 
 For a full list of dependencies and their versions, please refer to the requirements.txt file.
 Usage
@@ -39,10 +27,6 @@ Copygit clone [https://github.com/Javihaus/Optimizing-AI-Reasoning]
 
 ## Install the required dependencies:
 Copypip install -r requirements.txt
-
-## Open and run the Jupyter notebook:
-Copyjupyter notebook Hamiltonian_final_version.ipynb
-
 
 ## Dataset
 This project uses the OpenBookQA (OBQA) dataset. Due to licensing restrictions, the dataset is not included in this repository. Please download it from the official source and place it in the data/ directory before running the notebook.
@@ -58,7 +42,9 @@ For detailed results and discussions, please refer to the full paper.
 
 ## Citation
 If you use this work in your research, please cite:
-CopyMarín, J. (2024). Optimizing AI Reasoning: A Hamiltonian Dynamics Approach to Multi-Hop Question Answering. arXiv preprint arXiv:XXXX.XXXXX
+Marín, J. (2024). Optimizing AI Reasoning: A Hamiltonian Dynamics Approach to Multi-Hop Question Answering. arXiv preprint arXiv:2410.04415
+(DOI:10.48550/arXiv.2410.04415)
+
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
