@@ -29,9 +29,10 @@ Copygit clone [https://github.com/Javihaus/Optimizing-AI-Reasoning]
 Copypip install -r requirements.txt
 
 ## Dataset
-This project uses the OpenBookQA (OBQA) dataset. Due to licensing restrictions, the dataset is not included in this repository. Please download it from the official source and place it in the data/ directory before running the notebook.
+This project uses the OpenBookQA (OBQA) dataset. We used the OpenBookQA (OBQA) dataset for our research, which provides a standard to assess the question answering and reasoning abilities of AI systems. The OBQA dataset was presented by Mihaylov et al. (2018) in their research on open-book question answering.
+- Mihaylov, T., Clark, P., Khot, T., & Sabharwal, A. (2018). Can a suit of armor conduct electricity? a new dataset for open book question answering. Ar Xiv PreprintArXiv:1809.02789.
 
-##Results
+## Results
 The main findings of this study include:
 
 Valid reasoning chains exhibit lower and more stable Hamiltonian energy profiles compared to invalid chains.
